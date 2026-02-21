@@ -1,25 +1,20 @@
 {
   "automationId": "6999a3060ba67553b38310b5",
   "automationName": "Unnamed Automation",
-  "version": "v4",
+  "version": "v5",
   "mode": "multi-file",
   "dependencies": [
     {
-      "id": "1771678331874_1",
+      "id": "1771678687936_1",
       "name": "single-market-robot-simulator",
       "version": "latest"
     },
     {
-      "id": "1771678331874_2",
+      "id": "1771678687936_2",
       "name": "uuid",
-      "version": "latest"
-    },
-    {
-      "id": "1771678331874_3",
-      "name": "winston",
       "version": "latest"
     }
   ],
   "environmentVariables": [],
-  "syncedAt": "2026-02-21T12:58:31.466Z"
+  "syncedAt": "2026-02-21T13:02:54.567Z"
 }
